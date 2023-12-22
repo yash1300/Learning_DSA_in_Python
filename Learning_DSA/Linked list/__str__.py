@@ -1,4 +1,7 @@
 
+# to view the linked list in a understandable format
+
+
 class Node:
     def __init__(self, value):
         self.value = value
