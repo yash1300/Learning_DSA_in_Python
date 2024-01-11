@@ -5,3 +5,7 @@ While going through this repository you could easily understand and can revise t
 
 And I have also solved some leetcode question just for the practice purpose so the solution along with the question is also 
 provided in the Leet_DSA file, so you can also refer that based on the topic you want to learn.
+
+Read the comments written in between of the code in case of getting a better  understanding about the problem and the 
+solution provided.
+
